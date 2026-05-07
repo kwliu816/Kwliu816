@@ -4,7 +4,7 @@
 
 - 网名：倪可以
 - 性别：男
-- 职业：半吊子的<span style="color:#DBFBE2;">产品</span>和<span style="color:#DBFBE2;">技术</span>
+- 职业：半吊子的产品和技术
 
 ---
 
